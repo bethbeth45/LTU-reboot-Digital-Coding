@@ -1,0 +1,63 @@
+<header>
+  <h1> Header 1</h1>
+</header>
+<main>
+
+  <p>Bite off human's toes meowwww, and meow for food, then when human fills food dish, take a few bites of food and continue meowing dismember a mouse and then regurgitate parts of it on the family room floor cats are cute, yet find empty spot in cupboard and sleep all day. <span class="aqua">Is good you understand your place in my world murf pratt ungow ungow and <a href="https://google.com" target="_blank">sleep on my human's head bite off human's toes</a> or peer out window, chatter at birds, lure them to mouth proudly present butt to human.</span> Spit up on light gray carpet instead of adjacent linoleum peer out window, chatter at birds, lure them to mouth. <span class="green">Touch my tail, i shred your hand purrrr sit on the laptop</span> you call this cat food but walk on keyboard so spread kitty litter all over house. <span class="red">I love cats i am one wake up scratch humans leg for food then purr then i have a and relax poop in litter box, scratch the walls find something else more interesting.</span> Sitting in a box bite the neighbor's bratty kid.
+    </p>
+ <div class="wrapper">
+   <p> Bite off human's toes meowwww, and meow for food, then when human fills food dish, take a few bites of food and continue meowing dismember a mouse and then regurgitate parts of it on the family room floor cats are cute, yet find empty spot in cupboard and sleep all day. Is good you understand your place in my world murf pratt ungow ungow and sleep on my human's head bite off human's toes or peer out window, chatter at birds, lure them to mouth proudly present butt to human. Spit up on light gray carpet instead of adjacent linoleum peer out window, chatter at birds, lure them to mouth. Touch my tail, i shred your hand purrrr sit on the laptop you call this cat food but walk on keyboard so spread kitty litter all over house. I love cats i am one wake up scratch humans leg for food then purr then i have a and relax poop in litter box, scratch the walls find something else more interesting. Sitting in a box bite the neighbor's bratty kid.
+   </p>
+ </div>
+</main>
+<aside>
+  <p>sidebar stuff</p>
+</aside>
+<footer>
+  <p>footer stuff</p>
+</footer>
+
+span.aqua
+{color:aqua;
+}
+span.red
+{color:red;
+}
+span.green
+{color:green;
+}
+/* unvisited link */
+a:link {
+  color:#cc6c87;
+}
+/* visited link */
+a:visited {
+  color:#6a0fa3;
+}
+/* mouse over link */
+a:hover,
+/* keyboard focus link */
+a:focus {
+  color:#990fa3;
+}
+/* mouse clicked but not released */
+a:active{
+  color:#9ea30f;
+}
+.wrapper{
+  padding:30px;
+  background-color:red;
+  color:white;
+  max-width:500px;
+  min-height: 400px;
+  margin:0 auto;
+  border:5px dashed black;
+}
+footer 
+{background-color:yellow;
+  padding-top:15px; 
+  padding-left:40px;
+  border: 10px solid blue;
+  width: 600px;
+ }
+ 
