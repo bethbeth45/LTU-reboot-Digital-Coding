@@ -1,1 +1,12 @@
+1.3. - 12/10/2020
+
+
+Reflection
+
+//Your reflection goes here
+
+In todays session I attempt to catch up with a lesson I wasn't present for. 
+I have installed Github desktop and started to use Visual Studio, whereas I was previously shown Codepen. 
+
+This afternoon I will watch the recording of JS session 1 and hopefully be fully caught up in time for session 2. 
 
