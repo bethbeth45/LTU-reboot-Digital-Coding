@@ -6,7 +6,7 @@ Reflection
 //Your reflection goes here
 
 In todays session I attempt to catch up with a lesson I wasn't present for. 
-I have installed Github desktop and started to use Visual Studio, whereas I was previously shown Codepen. 
+I have installed Github desktop and started to use Visual Studio, whereas I was previously shown Codepen. Quite confusing!
 
 This afternoon I will watch the recording of JS session 1 and hopefully be fully caught up in time for session 2. 
 
