@@ -5,8 +5,21 @@ Reflection
 
 //Your reflection goes here
 
+The first two weeks of the course I completed on a previous intake where we used CodePen. Work from each session is available on my CodePen account at https://codepen.io/bethbeth45  
+
+12/10/20
+
 In todays session I attempt to catch up with a lesson I wasn't present for. 
 I have installed Github desktop and started to use Visual Studio, whereas I was previously shown Codepen. Quite confusing!
 
 This afternoon I will watch the recording of JS session 1 and hopefully be fully caught up in time for session 2. 
 
+Yes, fully caught up with the first JS session ready for JS session 2 tomorrow. 
+
+13/10/20
+
+Today we introduced more JS including variables, functions, operators etc. 
+
+14/10/20
+
+Today we started with a task using a function, creating a percentage calculator. 
