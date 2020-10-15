@@ -25,3 +25,6 @@ Today we introduced more JS including variables, functions, operators etc.
 Today we started with a task using a function, creating a percentage calculator. 
 Next we looked at ElseIf statements and built a calcultor. 
 
+15/10/20
+
+Today we've learnt about loops, arrays and objects. 
