@@ -27,6 +27,32 @@ return sum / arr.length;
 
 var meanOf = mean (data);
 console.log(meanOf);
+// end of mean function, median function below
+
+function median( arr ) {
+
+var median = 0;
+var arrLen = arr.length;
+// before [ list of numbers in original random order]
+     arr.sort();
+// after [ life of numbers now from lowest value to highest]
+
+if (arr.Len / 2 === 0 ) { // is even
+// average of two middle numbers
+median = (arr[ arrLen / 2 - 1]);
+
+} else { // is odd
+
+median = arr[ (arrLen - 1) / 2 ];
+
+}
+
+return median;
+
+}
+
+
+var medianOf = median (data);
 
 </script>
 

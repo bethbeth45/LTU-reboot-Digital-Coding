@@ -29,3 +29,8 @@ Next we looked at ElseIf statements and built a calculator.
 
 Today we've learnt about loops, arrays and objects. We did tasks involving creating a favourite recipe, creating a list of users and their attributes etc. 
 It did all make sense but some of the follow along moved too fast so I had a bug in my code and not all my tasks worked correctly. 
+
+19/10/20
+
+Today we've done the Mean, Mode and Median of an array in JS. It moved a bit fast and was hard to keep up with, not enough time given to fix issues in our code.
+
