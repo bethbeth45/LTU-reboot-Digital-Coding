@@ -35,4 +35,8 @@ It did all make sense but some of the follow along moved too fast so I had a bug
 Today we've done the Mean, Mode and Median of an array in JS. It moved a bit fast and was hard to keep up with, not enough time given to fix issues in our code.
 I caught up with the Shopping Cart task later.
 
+20/10/20
+
+Today we've discussed the DOM and used JS to access the DOM and change attributes like img src and CSS styles. 
+
 
