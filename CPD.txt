@@ -40,3 +40,6 @@ I caught up with the Shopping Cart task later.
 Today we've discussed the DOM and used JS to access the DOM and change attributes like img src and CSS styles. 
 
 21/10/20
+
+Today we did more JS including events and creating a filter for images of various animals. 
+
