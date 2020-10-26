@@ -43,3 +43,6 @@ Today we've discussed the DOM and used JS to access the DOM and change attribute
 
 Today we did more JS including events and creating a filter for images of various animals. 
 
+26/10/20
+
+Today we talked about static site builders and tried creating a git repository and using git pages. 
