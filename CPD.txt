@@ -45,4 +45,4 @@ Today we did more JS including events and creating a filter for images of variou
 
 26/10/20
 
-Today we talked about static site builders and tried creating a git repository and using git pages. 
+Today we talked about static site builders and tried creating a git repository and using git pages. We have a takeaway task to create a landing page about ourselves. 
